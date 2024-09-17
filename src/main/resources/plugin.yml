@@ -1,0 +1,4 @@
+name: SRVMoji
+version: '1.0-SNAPSHOT'
+main: io.github.duckfromdiscord.srvmoji.SRVMoji
+api-version: '1.21'
